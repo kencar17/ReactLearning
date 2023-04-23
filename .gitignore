@@ -9,10 +9,10 @@
 /1-react-basics/.pnp.js
 
 # testing
-/1-react-basics//coverage
+/1-react-basics/coverage
 
 # production
-/1-react-basics//build
+/1-react-basics/build
 
 # misc
 /1-react-basics/.DS_Store
@@ -33,10 +33,10 @@
 /2-course-goals/.pnp.js
 
 # testing
-/2-course-goals//coverage
+/2-course-goals/coverage
 
 # production
-/2-course-goals//build
+/2-course-goals/build
 
 # misc
 /2-course-goals/.DS_Store
@@ -48,3 +48,27 @@
 /2-course-goals/npm-debug.log*
 /2-course-goals/yarn-debug.log*
 /2-course-goals/yarn-error.log*
+
+# User App
+
+# dependencies
+/3-user-app/node_modules
+/3-user-app/.pnp
+/3-user-app/.pnp.js
+
+# testing
+/3-user-app/coverage
+
+# production
+/3-user-app/build
+
+# misc
+/3-user-app/.DS_Store
+/3-user-app/.env.local
+/3-user-app/.env.development.local
+/3-user-app/.env.test.local
+/3-user-app/.env.production.local
+
+/3-user-app/npm-debug.log*
+/3-user-app/yarn-debug.log*
+/3-user-app/yarn-error.log*

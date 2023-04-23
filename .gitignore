@@ -18,9 +18,33 @@
 /1-react-basics/.DS_Store
 /1-react-basics/.env.local
 /1-react-basics/.env.development.local
-/react-basics/.env.test.local
+/1-react-basics/.env.test.local
 /1-react-basics/.env.production.local
 
 /1-react-basics/npm-debug.log*
 /1-react-basics/yarn-debug.log*
 /1-react-basics/yarn-error.log*
+
+# Course goals
+
+# dependencies
+/2-course-goals/node_modules
+/2-course-goals/.pnp
+/2-course-goals/.pnp.js
+
+# testing
+/2-course-goals//coverage
+
+# production
+/2-course-goals//build
+
+# misc
+/2-course-goals/.DS_Store
+/2-course-goals/.env.local
+/2-course-goals/.env.development.local
+/2-course-goals/.env.test.local
+/2-course-goals/.env.production.local
+
+/2-course-goals/npm-debug.log*
+/2-course-goals/yarn-debug.log*
+/2-course-goals/yarn-error.log*

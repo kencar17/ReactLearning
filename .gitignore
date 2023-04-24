@@ -72,3 +72,27 @@
 /3-user-app/npm-debug.log*
 /3-user-app/yarn-debug.log*
 /3-user-app/yarn-error.log*
+
+# User App - Diving Deeper
+
+# dependencies
+/4-diving-deeper/node_modules
+/4-diving-deeper/.pnp
+/4-diving-deeper/.pnp.js
+
+# testing
+/4-diving-deeper/coverage
+
+# production
+/4-diving-deeper/build
+
+# misc
+/4-diving-deeper/.DS_Store
+/4-diving-deeper/.env.local
+/4-diving-deeper/.env.development.local
+/4-diving-deeper/.env.test.local
+/4-diving-deeper/.env.production.local
+
+/4-diving-deeper/npm-debug.log*
+/4-diving-deeper/yarn-debug.log*
+/4-diving-deeper/yarn-error.log*
